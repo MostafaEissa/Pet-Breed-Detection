@@ -1,6 +1,6 @@
 # Overview
 
-A pretrained ResNet34 model for pet breed detection.  
+using a pretrained ResNet34 model for pet breed detection.  
 
 # Dataset 
 
@@ -17,4 +17,4 @@ The model was fine tuned using [scikit-learn](https://scikit-learn.org/) and [Py
 
 # Metrics
 
-The model achieved xx% accuracy on the validation set (random 20% subset of the training dataset).
+The model achieved 90% accuracy on the validation set (random 20% subset of the training dataset).
